@@ -14,3 +14,5 @@ def jump_game_two(nums):
         break
 
   return jumps
+
+print(jump_game_two([2, 1, 1, 1, 4]))
