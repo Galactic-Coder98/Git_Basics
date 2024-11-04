@@ -1,4 +1,4 @@
 ## Welcome to Git!
 
-- This is coming from `dev-prince`
+- Yo, Johnny here!
 - I'm adding this from `second_branch`
